@@ -1,0 +1,22 @@
+/* id selector */
+p {
+    color:tomato;
+    text-align:left;
+    background-color:aquamarine;
+    margin-left: 20px;
+    margin-right :40px;
+}
+body{
+    background-color : grey;
+}
+/* class selecor
+ efefreeeee*/
+ .center{
+    color:orange;
+    text-align:center;
+    font-size: 24px;
+    font-family:arial;
+    border-style: solid;
+    border-width: 5px;
+    border-color:black;
+ }
